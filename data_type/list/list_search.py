@@ -29,7 +29,7 @@ points.sort(reverse=True)
 print(points)
 
 # 리스트 내의 요소의 단순 존재 유무를 검사하려면 in 키워드를 사용합니다.
-food_menu = ['김밥', '닭강정', '라면', '김말이']
+food_menu = ['치킨', '타코야끼', '떡볶이', '김말이']
 name = input('음식명을 입력하세요: ')
 
 if name in food_menu:
